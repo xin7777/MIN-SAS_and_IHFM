@@ -1,0 +1,13 @@
+/usr/local/var/log/joy.log {
+    daily
+    rotate 14
+    compress
+    delaycompress
+    missingok
+    notifempty
+    sharedscripts
+    su joy joy
+    postrotate
+      systemctl reload joy.service >/dev/null 2>&1 || true
+    endscript
+}

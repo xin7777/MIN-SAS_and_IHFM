@@ -1,0 +1,183 @@
+start waiting vpn server logs...
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885195, "Action": "POST /wzq1/aaa.txt HTTP", "Count": 1}'
+1 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885196, "Action": "GET /login HTTP", "Count": 2}'
+2 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885197, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 3}'
+3 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885198, "Action": "POST /wzq1/aaa.txt HTTP", "Count": 4}'
+4 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885199, "Action": "GET /wzq1/aaa.tar.gz HTTP", "Count": 5}'
+5 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885200, "Action": "POST /logout HTTP", "Count": 6}'
+6 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885201, "Action": "POST /logout HTTP", "Count": 7}'
+7 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885202, "Action": "GET /repo HTTP", "Count": 8}'
+8 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885204, "Action": "GET /repo HTTP", "Count": 9}'
+9 ueba logs received
+start inspecting vpn server logs...
+9 logs received
+9 ueba logs received2
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885205, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 10}'
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885206, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 11}'
+1 ueba logs received
+2 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885207, "Action": "POST /logout HTTP", "Count": 12}'
+3 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885208, "Action": "GET /repo HTTP", "Count": 13}'
+4 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq1", "Timestamp": 1610885209, "Action": "POST /logout HTTP", "Count": 14}'
+5 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885210, "Action": "GET /repo HTTP", "Count": 15}'
+6 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885211, "Action": "GET /login HTTP", "Count": 16}'
+7 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885212, "Action": "GET /repo HTTP", "Count": 17}'
+8 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885213, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 18}'
+9 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885214, "Action": "GET /login HTTP", "Count": 19}'
+10 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885215, "Action": "POST /wzq1/aaa.txt HTTP", "Count": 20}'
+11 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885216, "Action": "GET /repo HTTP", "Count": 21}'
+12 ueba logs received
+start inspecting vpn server logs...
+12 logs received
+12 ueba logs received2
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885217, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 22}'
+1 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq1", "Timestamp": 1610885218, "Action": "GET /repo HTTP", "Count": 23}'
+2 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885219, "Action": "POST /logout HTTP", "Count": 24}'
+3 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885220, "Action": "GET /login HTTP", "Count": 25}'
+4 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885221, "Action": "GET /repo HTTP", "Count": 26}'
+5 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885222, "Action": "GET /repo HTTP", "Count": 27}'
+6 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq1", "Timestamp": 1610885223, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 28}'
+7 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885224, "Action": "GET /login HTTP", "Count": 29}'
+8 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885226, "Action": "GET /repo HTTP", "Count": 30}'
+9 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq1", "Timestamp": 1610885227, "Action": "GET /repo HTTP", "Count": 31}'
+10 ueba logs received
+start inspecting vpn server logs...
+10 logs received
+10 ueba logs received2
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq1", "Timestamp": 1610885228, "Action": "GET /login HTTP", "Count": 32}'
+1 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885229, "Action": "GET /wzq1/aaa.tar.gz HTTP", "Count": 33}'
+2 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885230, "Action": "GET /repo HTTP", "Count": 34}'
+3 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885231, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 35}'
+4 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885232, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 36}'
+5 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885233, "Action": "GET /repo HTTP", "Count": 37}'
+6 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885234, "Action": "GET /repo HTTP", "Count": 38}'
+7 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885235, "Action": "GET /repo HTTP", "Count": 39}'
+8 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885236, "Action": "GET /repo HTTP", "Count": 40}'
+9 ueba logs received
+start inspecting vpn server logs...
+9 logs received
+9 ueba logs received2
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885237, "Action": "POST /logout HTTP", "Count": 41}'
+1 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885238, "Action": "GET /wzq1/aaa.tar.gz HTTP", "Count": 42}'
+2 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885239, "Action": "POST /logout HTTP", "Count": 43}'
+3 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq1", "Timestamp": 1610885240, "Action": "POST /wzq1/aaa.txt HTTP", "Count": 44}'
+4 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885242, "Action": "GET /repo HTTP", "Count": 45}'
+5 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885243, "Action": "GET /login HTTP", "Count": 46}'
+6 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885244, "Action": "POST /logout HTTP", "Count": 47}'
+7 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885245, "Action": "GET /repo HTTP", "Count": 48}'
+8 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885246, "Action": "GET /login HTTP", "Count": 49}'
+9 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885247, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 50}'
+10 ueba logs received
+start inspecting vpn server logs...
+10 logs received
+10 ueba logs received2
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885248, "Action": "GET /repo HTTP", "Count": 51}'
+1 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885249, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 52}'
+2 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq1", "Timestamp": 1610885250, "Action": "GET /login HTTP", "Count": 53}'
+3 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq1", "Timestamp": 1610885251, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 54}'
+4 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq1", "Timestamp": 1610885252, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 55}'
+5 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885253, "Action": "POST /wzq1/aaa.txt HTTP", "Count": 56}'
+6 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885254, "Action": "GET /wzq1/aaa.tar.gz HTTP", "Count": 57}'
+7 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885255, "Action": "GET /repo HTTP", "Count": 58}'
+8 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885256, "Action": "GET /wzq1/aaa.tar.gz HTTP", "Count": 59}'
+9 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885257, "Action": "GET /repo HTTP", "Count": 60}'
+10 ueba logs received
+start inspecting vpn server logs...
+10 logs received
+10 ueba logs received2
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885258, "Action": "GET /login HTTP", "Count": 61}'
+1 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885259, "Action": "GET /login HTTP", "Count": 62}'
+2 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885260, "Action": "GET /wzq1/aaa.tar.gz HTTP", "Count": 63}'
+3 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885261, "Action": "POST /wzq1/aaa.txt HTTP", "Count": 64}'
+4 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885262, "Action": "POST /wzq1/aaa.txt HTTP", "Count": 65}'
+5 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885264, "Action": "POST /logout HTTP", "Count": 66}'
+6 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq5", "Timestamp": 1610885265, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 67}'
+7 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885266, "Action": "GET /wzq1/aaa.tar.gz HTTP", "Count": 68}'
+8 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885267, "Action": "GET /login HTTP", "Count": 69}'
+9 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885268, "Action": "POST /logout HTTP", "Count": 70}'
+10 ueba logs received
+start inspecting vpn server logs...
+10 logs received
+10 ueba logs received2
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885269, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 71}'
+1 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq1", "Timestamp": 1610885270, "Action": "POST /logout HTTP", "Count": 72}'
+2 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885271, "Action": "GET /repo HTTP", "Count": 73}'
+3 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq3", "Timestamp": 1610885272, "Action": "POST /logout HTTP", "Count": 74}'
+4 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885273, "Action": "GET /hahaha/123/this_is_an_abnormal_request HTTP", "Count": 75}'
+5 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq6", "Timestamp": 1610885274, "Action": "POST /logout HTTP", "Count": 76}'
+6 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885275, "Action": "POST /wzq1/aaa.txt HTTP", "Count": 77}'
+7 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq4", "Timestamp": 1610885276, "Action": "POST /logout HTTP", "Count": 78}'
+8 ueba logs received
+b'{"Command": "Log", "Type": "Network", "Level": 0, "Prefix": "/MIN/VPN", "Sig": "d3pxMTk5", "Username": "wzq2", "Timestamp": 1610885277, "Action": "GET /repo HTTP", "Count": 79}'
+9 ueba logs received
+start inspecting vpn server logs...
+9 logs received
+9 ueba logs received2

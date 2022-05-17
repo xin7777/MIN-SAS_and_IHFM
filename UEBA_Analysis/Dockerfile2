@@ -1,0 +1,18 @@
+# 基础镜像
+FROM python:3.6.12-buster
+# 维护人
+MAINTAINER wzq<wzhq199@163.com>
+# 拷贝python第三方库
+COPY ./dependencies/ /usr/local/dependencies/
+# 拷贝UEBA源代码
+COPY ./ /usr/local/UEBA_analysis/
+# 安装python第三方库
+RUN pip install /usr/local/dependencies/*
+# 服务器端口映射
+EXPOSE 5000
+# 环境配置完成
+CMD echo "--------finish--------"
+# 切换bash
+CMD /bin/bash
+# 启动UEBA Server服务
+CMD python /usr/local/UEBA_analysis/ueba_server.py
